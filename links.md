@@ -27,7 +27,19 @@ permalink: LINKS/
   An article about what GnuPG is and how it works. This article provides a robust explanation along with examples of how  to use it.
 * [C Tutorial](https://www.w3schools.com/c/index.php){:target="_blank"} ---
   A comprehensive tutorial about C programming language. The tutorial is well-organized and progresses step by step. The  re is a sidebar on the left side to facilitate navigation between topics.
+
+## WEEK 3
+* [File Systems in Operating System](https://www.geeksforgeeks.org/file-systems-in-operating-system/){:target="_blank"} ---
+  An article that discusses many topics related to the file system concisely. This article includes numerous illustrative images, making it easier to understand the explanations provided.
+* [Understanding File System](https://www.geeksforgeeks.org/understanding-file-system/){:target="_blank"} ---
+  An article that discusses various popular file systems. This article includes numerous illustrative images, making it easier to understand the explanations provided. 
+* [File Allocation Methods](https://www.geeksforgeeks.org/file-allocation-methods/){:target="_blank"} ---
+  An article that discusses various methods used to allocate files to local storage. This article includes numerous illustrative images, making it easier to understand the explanations provided.
+* [Linux File System](https://www.javatpoint.com/linux-file-system){:target="_blank"} ---
+  An article that explain the linux file system in general. This article is very easy to understand because it is written in a concise and clear way.
+* [Partitions, File Systems, Formatting, Mounting](https://www.physics.udel.edu/~bnikolic/teaching/phys660/RUTE/rute/node22.html){:target="_blank"} ---
+  An article that contains a comprehensive tutorial on mounting, partitioning, and formatting in the file system. The tutorial provides screenshots of each command as it is executed in the terminal.
 <br>
 <br>
-#### REV: Sun 15 Sep 2024 09:10
+#### REV: Mon 23 Sep 2024 23:00
 <hr>
