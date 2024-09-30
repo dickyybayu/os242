@@ -39,7 +39,19 @@ permalink: LINKS/
   An article that explain the linux file system in general. This article is very easy to understand because it is written in a concise and clear way.
 * [Partitions, File Systems, Formatting, Mounting](https://www.physics.udel.edu/~bnikolic/teaching/phys660/RUTE/rute/node22.html){:target="_blank"} ---
   An article that contains a comprehensive tutorial on mounting, partitioning, and formatting in the file system. The tutorial provides screenshots of each command as it is executed in the terminal.
+
+## WEEK 4
+* [Big Endian and Little Endian](https://www.youtube.com/watch?v=jhErugDB-34){:target="_blank"} ---
+   A video explanation of the difference between Big Endian and Little Endian. This video is very easy to understand because of the animations
+* [SCP Command in Linux](https://www.geeksforgeeks.org/scp-command-in-linux-with-examples/){:target="_blank"} ---
+  An article explaining how to use the scp command. This article includes various examples, making it easier to understand.
+* [Memory Management in Operating System](https://www.geeksforgeeks.org/memory-management-in-operating-system/){:target="_blank"} ---
+  An article that explains memory management in operating systems in general and contains many illustrative images to make the explanations easier to understand.
+* [Implementation of Contiguous Memory Management Techniques](https://www.geeksforgeeks.org/implementation-of-contiguous-memory-management-techniques/){:target="_blank"} ---
+  An article that explains contiguous allocation and contains many illustrative images to make the explanations easier to understand.
+* [Non-Contiguous Allocation in Operating System](https://www.geeksforgeeks.org/non-contiguous-allocation-in-operating-system/){:target="_blank"} ---
+   An article that explains non-contiguous allocation and contains many illustrative images to make the explanations easier to understand.
 <br>
 <br>
-#### REV: Mon 23 Sep 2024 23:00
+#### REV: Mon 30 Sep 2024 15:30
 <hr>
