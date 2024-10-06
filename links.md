@@ -51,7 +51,17 @@ permalink: LINKS/
   An article that explains contiguous allocation and contains many illustrative images to make the explanations easier to understand.
 * [Non-Contiguous Allocation in Operating System](https://www.geeksforgeeks.org/non-contiguous-allocation-in-operating-system/){:target="_blank"} ---
    An article that explains non-contiguous allocation and contains many illustrative images to make the explanations easier to understand.
+
+## WEEK 5                                                                        * [Virtual Memory in OS](https://www.javatpoint.com/os-virtual-memory){:target="_blank"} ---                                                                    
+  This article contains an explanation of virtual memory in operating systems. It includes illustrative images that help in understanding the provided explanations more easily.                    
+* [Demand Paging in OS](https://www.javatpoint.com/os-demand-paging){:target="_blank"} ---  
+  This article contains an explanation of demand paging in virtual memory. It includes many illustrative images that make it easier to understand the explanations provided.
+* [Allocation of frames in Operating System](https://www.geeksforgeeks.org/operating-system-allocation-frames/){:target="_blank"} ---
+  This article contains an explanation of the algorithms that can be used for frame allocation. It includes many illustrative images, making it easier to understand the explanations provided.
+* [Difference between Uniform Memory Access (UMA) and Non-uniform Memory Access (NUMA)](https://www.geeksforgeeks.org/difference-between-uniform-memory-access-uma-and-non-uniform-memory-access-numa/){:target="_blank"} ---                        This article contains an explanation of the difference between UMA and NUMA. It includes many illustrative images, making it easier to understand the explanations provided.
+* [Techniques to handle Thrashing](https://www.geeksforgeeks.org/techniques-to-handle-thrashing/){:target="_blank"} ---
+  This article contains an explanation of techniques to handle Thrashing. It includes many illustrative images, making it easier to understand the explanations provided.                    
 <br>
 <br>
-#### REV: Mon 30 Sep 2024 15:30
+#### REV: Sun 06 Oct 2024 12:00
 <hr>
