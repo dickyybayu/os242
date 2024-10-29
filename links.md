@@ -60,7 +60,18 @@ permalink: LINKS/
   This article contains an explanation of the algorithms that can be used for frame allocation. It includes many illustrative images, making it easier to understand the explanations provided.
 * [Difference between Uniform Memory Access (UMA) and Non-uniform Memory Access (NUMA)](https://www.geeksforgeeks.org/difference-between-uniform-memory-access-uma-and-non-uniform-memory-access-numa/){:target="_blank"} ---                        This article contains an explanation of the difference between UMA and NUMA. It includes many illustrative images, making it easier to understand the explanations provided.
 * [Techniques to handle Thrashing](https://www.geeksforgeeks.org/techniques-to-handle-thrashing/){:target="_blank"} ---
-  This article contains an explanation of techniques to handle Thrashing. It includes many illustrative images, making it easier to understand the explanations provided.                    
+  This article contains an explanation of techniques to handle Thrashing. It includes many illustrative images, making it easier to understand the explanations provided.
+
+                                                                                       ## WEEK 6                                                                        
+* [Operating System - Processes](https://www.tutorialspoint.com/operating_system/os_processes.htm){:target="_blank"} ---                                                        This article contains explanations about processes in operating systems. It includes images, code examples, and an attractive layout that is easy to understand.
+* [Operating System - Process Scheduling](https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm){:target="_blank"} ---
+  This article explains process scheduling. It includes many illustrative images to facilitate understanding of the explanations provided.
+* [Operations on Processes](https://www.geeksforgeeks.org/operations-on-processes/){:target="_blank"} ---
+  This article explains various operations in processes. It provides simple and easy-to-understand descriptions for each command.
+* [Inter Process Communication](https://www.javatpoint.com/what-is-inter-process-communication){:target="_blank"} ---                        
+  This article explains Inter-Process Communication (IPC). It includes many illustrative images, making the explanations easier to understand.
+* [Multithreading Models in Operating System](https://www.javatpoint.com/multithreading-models-in-operating-system){:target="_blank"} ---
+  This article explains multithreading models in operating systems. It includes many illustrative images, making the explanations easier to understand.                    
 <br>
 <br>
 #### REV: Sun 06 Oct 2024 12:00
