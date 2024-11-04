@@ -52,27 +52,37 @@ permalink: LINKS/
 * [Non-Contiguous Allocation in Operating System](https://www.geeksforgeeks.org/non-contiguous-allocation-in-operating-system/){:target="_blank"} ---
    An article that explains non-contiguous allocation and contains many illustrative images to make the explanations easier to understand.
 
-## WEEK 5                                                                        * [Virtual Memory in OS](https://www.javatpoint.com/os-virtual-memory){:target="_blank"} ---                                                                    
-  This article contains an explanation of virtual memory in operating systems. It includes illustrative images that help in understanding the provided explanations more easily.                    
-* [Demand Paging in OS](https://www.javatpoint.com/os-demand-paging){:target="_blank"} ---  
+## WEEK 5                                                                        
+* [Virtual Memory in OS](https://www.javatpoint.com/os-virtual-memory){:target="_blank"} ---                              
+  This article contains an explanation of virtual memory in operating systems. It includes illustrative images that help in understanding the provided explanations more easily.   * [Demand Paging in OS](https://www.javatpoint.com/os-demand-paging){:target="_blank"} ---  
   This article contains an explanation of demand paging in virtual memory. It includes many illustrative images that make it easier to understand the explanations provided.
 * [Allocation of frames in Operating System](https://www.geeksforgeeks.org/operating-system-allocation-frames/){:target="_blank"} ---
   This article contains an explanation of the algorithms that can be used for frame allocation. It includes many illustrative images, making it easier to understand the explanations provided.
-* [Difference between Uniform Memory Access (UMA) and Non-uniform Memory Access (NUMA)](https://www.geeksforgeeks.org/difference-between-uniform-memory-access-uma-and-non-uniform-memory-access-numa/){:target="_blank"} ---                        This article contains an explanation of the difference between UMA and NUMA. It includes many illustrative images, making it easier to understand the explanations provided.
+* [Difference between Uniform Memory Access (UMA) and Non-uniform Memory Access (NUMA)](https://www.geeksforgeeks.org/difference-between-uniform-memory-access-uma-and-non-uniform-memory-access-numa/){:target="_blank"} ---                        
+  This article contains an explanation of the difference between UMA and NUMA. It includes many illustrative images, making it easier to understand the explanations provided.
 * [Techniques to handle Thrashing](https://www.geeksforgeeks.org/techniques-to-handle-thrashing/){:target="_blank"} ---
   This article contains an explanation of techniques to handle Thrashing. It includes many illustrative images, making it easier to understand the explanations provided.
 
-                                                                                       ## WEEK 6                                                                        
-* [Operating System - Processes](https://www.tutorialspoint.com/operating_system/os_processes.htm){:target="_blank"} ---                                                        This article contains explanations about processes in operating systems. It includes images, code examples, and an attractive layout that is easy to understand.
+## WEEK 6                                                                        
+* [Operating System - Processes](https://www.tutorialspoint.com/operating_system/os_processes.htm){:target="_blank"} ---                                                             This article contains explanations about processes in operating systems. It includes images, code examples, and an attractive layout that is easy to understand.
 * [Operating System - Process Scheduling](https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm){:target="_blank"} ---
   This article explains process scheduling. It includes many illustrative images to facilitate understanding of the explanations provided.
 * [Operations on Processes](https://www.geeksforgeeks.org/operations-on-processes/){:target="_blank"} ---
   This article explains various operations in processes. It provides simple and easy-to-understand descriptions for each command.
-* [Inter Process Communication](https://www.javatpoint.com/what-is-inter-process-communication){:target="_blank"} ---                        
+* [Inter Process Communication](https://www.javatpoint.com/what-is-inter-process-communication){:target="_blank"} ---     
   This article explains Inter-Process Communication (IPC). It includes many illustrative images, making the explanations easier to understand.
 * [Multithreading Models in Operating System](https://www.javatpoint.com/multithreading-models-in-operating-system){:target="_blank"} ---
-  This article explains multithreading models in operating systems. It includes many illustrative images, making the explanations easier to understand.                    
+  This article explains multithreading models in operating systems. It includes many illustrative images, making the explanations easier to understand.
+
+## WEEK 7
+* [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/){:target="_blank"} ---  
+  This article provides an explanation of process synchronization in operating systems. It includes numerous illustrative images to help readers understand the concepts discussed.
+* [Critical Section in Synchronization](https://www.geeksforgeeks.org/g-fact-70/){:target="_blank"} ---
+  This article explains the critical section in process synchronization. It includes images, sample code, and an attractive, easy-to-understand layout.
+* [Semaphores in Process Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/){:target="_blank"} ---                                                This article discusses semaphores in process synchronization, with images, sample code, and a visually appealing, easy-to-follow format.                                         * [What is Deadlock in Operating System (OS)?](https://www.javatpoint.com/os-deadlocks-introduction){:target="_blank"} ---                                                           This article provides an explanation of deadlock in operating systems. It contains many illustrative images to aid in understanding the concepts.
+* [Handling Deadlock](https://www.geeksforgeeks.org/handling-deadlocks/){:target="_blank"} ---
+  This article explains various methods for handling deadlock. It is organized in a clear, progressive manner.                    
 <br>
 <br>
-#### REV: Sun 06 Oct 2024 12:00
+#### REV: Mon 04 Nov 2024 22:00
 <hr>
