@@ -82,7 +82,18 @@ permalink: LINKS/
 * [Semaphores in Process Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/){:target="_blank"} ---                                                This article discusses semaphores in process synchronization, with images, sample code, and a visually appealing, easy-to-follow format.                                         * [What is Deadlock in Operating System (OS)?](https://www.javatpoint.com/os-deadlocks-introduction){:target="_blank"} ---                                                           This article provides an explanation of deadlock in operating systems. It contains many illustrative images to aid in understanding the concepts.
 * [Handling Deadlock](https://www.geeksforgeeks.org/handling-deadlocks/){:target="_blank"} ---
   This article explains various methods for handling deadlock. It is organized in a clear, progressive manner.                    
+
+## WEEK 8
+* [Process Queues](https://www.javatpoint.com/os-process-queues){:target="_blank"} ---
+  This article explains the different types of queues in process scheduling. The article includes images, making it easy to understand.
+* [Preemptive and Non-Preemptive Scheduling](https://www.geeksforgeeks.org/preemptive-and-non-preemptive-scheduling/){:target="_blank"} ---
+  This article explains the differences between preemptive and non-preemptive scheduling in process scheduling. The differences are presented in a table format, making the informa  tion easy to understand.
+* [CPU Scheduling in Operating Systems](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/){:target="_blank"} ---                                                    This article provides an explanation of processes in operating systems. The article includes images to improve understanding. The tutorial is well-organized and progresses step-  by-step. It includes a table of contents to facilitate navigation between sections.                                                                                              * [CPU Scheduling Criteria](https://www.geeksforgeeks.org/cpu-scheduling-criteria/){:target="_blank"} ---                                                           
+  This article explains the different criteria in CPU scheduling. The tutorial is structured neatly and progresses step-by-step.
+* [Linux From Scratch v12.0](https://www.linuxfromscratch.org/lfs/view/12.0/){:target="_blank"} ---
+  This book provides a complete tutorial on how to build Linux from scratch. The tutorial is neatly structured and progresses step-by-step. It includes a table of contents to faci  litate navigation between sections.
+
 <br>
 <br>
-#### REV: Mon 04 Nov 2024 22:00
+#### REV: Fri 08 Nov 2024 22:00
 <hr>
